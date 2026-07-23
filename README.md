@@ -43,5 +43,5 @@ A console-based Vending Machine simulation.
 - OOP Principles
 
 ## Author
-- GitHub: your github username
-- LinkedIn: your linkedin profile
+- GitHub: Reshvanthanand8-hue
+- LinkedIn: RESHVANTH KRISHNA
